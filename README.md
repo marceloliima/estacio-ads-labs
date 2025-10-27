@@ -95,7 +95,7 @@ Este repositório será atualizado a cada semestre, com diretórios específicos
 
 ## 🧾 Estrutura de Diretórios
 
-faculdade-ads-estacio/
+estacio-ads-labs/
 │
 ├── pensamento-computacional/
 │ ├── atividades/
