@@ -93,35 +93,6 @@ Este repositório será atualizado a cada semestre, com diretórios específicos
 
 ---
 
-## 🧾 Estrutura de Diretórios
-
-estacio-ads-labs/
-│
-├── pensamento-computacional/
-│ ├── atividades/
-│ └── projetos/
-│
-├── introducao-programacao/
-│ ├── exercicios-python/
-│ └── projetos/
-│
-├── redes-computadores/
-│ ├── comandos-basicos/
-│ └── simulacoes/
-│
-├── seguranca-informacao/
-│ ├── relatorios/
-│ └── estudos-de-caso/
-│
-├── computacao-nuvem/
-│ ├── aws/
-│ ├── azure/
-│ └── gcp/
-│
-└── README.md
-
----
-
 ## 🌱 Próximos Passos
 - [ ] Adicionar códigos e exercícios práticos de cada disciplina.  
 - [ ] Criar README específico dentro de cada pasta com explicações e resultados.  
